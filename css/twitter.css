@@ -1,0 +1,53 @@
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    max-height: 300px;
+}
+
+.navbar {
+    border: none;
+}
+
+body {
+    padding-top: 60px;
+}
+
+.twit-comment {
+    width: 485px !important;
+}
+
+.comment{
+  border-radius: 5px ;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.nasa {
+    padding-top: 5px;
+}
+
+.rounded {
+  border-radius:30px;
+}
+
+.move{
+  border-left: none;
+}
+
+.spacing{
+  padding-right: 45px;
+  color: grey;
+}
+
+.bleh{
+  padding-top: 10px;
+}
+
+.rem{
+  margin: 0px;
+}
+
+
+.panel-footer{
+  margin: 0px;
+  padding-bottom: 1px;
+  padding-top: 10px;
+}
